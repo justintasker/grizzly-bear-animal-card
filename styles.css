@@ -1,0 +1,64 @@
+
+img {
+  width: 300px;
+  height: 200px;
+  padding-bottom: 10px;
+  border-radius: 2px;
+  border: 1px #4a331c;
+  box-shadow: 1px #777777;
+}
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
+  color: #38332e;
+  margin-bottom: 5px;
+  font-family: 'Sigmar One', cursive;
+  text-align: left;
+  padding-bottom: 5px;
+  margin-top: 5px;
+}
+p.one {
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #38332e;
+}
+p.two {
+  font-size: 14.5px;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding-left: 5px;
+  text-align: left;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  color: #38332e;
+}
+ul {
+  padding-left: 5px;
+}
+li {
+  font-size: 15px;
+  list-style-type: none;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #38332e;
+}
+.mainContainer {
+box-shadow: 2px 2px 2px 2px #777777;
+width: 300px;
+height: 660px;
+padding: 8px;
+border: 2px;
+border-radius: 2px;
+border-color: #4a331c;
+background-image: url(./woodbackground.jpg);
+}
+.container2 {
+width: 298px;
+height: 385px;
+border: groove 1px;
+border-radius: 2px;
+border-color: #4a331c;
+box-shadow: 1px #777777;
+background-color:  #EAE6DA;
+}
